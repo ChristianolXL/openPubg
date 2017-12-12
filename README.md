@@ -57,7 +57,10 @@ After lunching the server, the user will see the openPubg command line interface
 
 ## Contribution summary
 Boning Dong: Testing, fixing bugs, implementing the roomManager, textManager and data plumbing etc., writing code review, project documentation on Github.
+
 Ziniu Yu: Testing, implementing the second game (PigDice), roomManager, writing the testing documents.
+
 Shenrui Zhang: Testing, implementing the first (TicTacToe) and second game (PigDice), final release document.
+
 Tianxin Zhou: Testing, fixing bugs, implementing the textManager, writing the testing documents, code review, final testing results.
 
