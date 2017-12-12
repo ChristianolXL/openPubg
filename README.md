@@ -1,5 +1,7 @@
 # open Platform of Universal Board Game
 >A RPI SD&D Project
+Team:
+Boning Dong, Ziniu Yu, Shenrui Zhang, Tianxin Zhou
 
 **open Platform of Universal Board Game** (a.k.a. openPubg) is an open text-based gaming platform that allows users to host their own servers and play different games through text messages or emails. This platform is designed to be powerful and  modularized, and also allows game developers to implement their own games through APIs for this platform.
 
