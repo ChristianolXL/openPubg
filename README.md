@@ -1,5 +1,6 @@
 # open Platform of Universal Board Game
 >A RPI SD&D Project
+
 Team:
 Boning Dong, Ziniu Yu, Shenrui Zhang, Tianxin Zhou
 
