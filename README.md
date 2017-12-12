@@ -15,7 +15,7 @@ The user can also choose to run the server from Python source code. The server r
 ```
 
 #### Build from source code
-For more advanced usages, the user can also build openPubg from source. The Python binary is built through `pyinstaller`. So, the user needs install `pyinstaller` first and then build openPubg:
+For more advanced usages, the user can also build openPubg from source. The Python binary is built through [`pyinstaller`](). So, the user needs install `pyinstaller` first and then build openPubg:
 ```shell
 pip3 install pyinstaller
 pyinstaller ./src/openPubg.py
@@ -48,5 +48,5 @@ After lunching the server, the user will see the openPubg command line interface
 |info           |Show the info log of the server                     |
 
 
-### License
+## License
 [MIT License](https://github.com/Erebuxy/openPubg/blob/master/LICENSE)
